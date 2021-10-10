@@ -1,5 +1,5 @@
 # DSPLab
-DSP Lab work done during V Semester
+Digital Signal Processing Lab work done during V Semester
 
 ## [Analysis of Different Sampling Rates (Stem Graph)](https://github.com/MBadriNarayanan/DSPLab/blob/main/SamplingStem.m)
 
